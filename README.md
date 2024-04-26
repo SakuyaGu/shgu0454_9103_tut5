@@ -32,3 +32,13 @@ This is my first local change to the repo!
 ![An image](https://placekitten.com/200/300)
 
 ![An image of Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
+```
+function helloWorld(){
+    console.log("Hello world!")
+}
+```
+
+Update the `draw()` function to include a for loop.
+
+> This is a blockquote.
